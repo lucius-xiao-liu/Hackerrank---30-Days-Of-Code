@@ -5,4 +5,5 @@
 ### Progression:(June - July, 2019)
 
 SUN | MON | TUE | WED | THUR | FRI | SAT
---- | --- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | --- | ---
+   |   |   |   |   |   |   
