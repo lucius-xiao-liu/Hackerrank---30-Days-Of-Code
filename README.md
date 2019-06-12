@@ -6,4 +6,4 @@
 
 SUN | MON | TUE | WED | THUR | FRI | SAT
 --- | --- | --- | --- | --- | --- | ---
-   |   |   |   |   |   |   | [Day 1]() 
+   |   |   |   |   |   |   | [Day 1](https://github.com/lucius-xiao-liu/Hackerrank---30-Days-Of-Code/tree/master/Day%201:%20Hello%20World) 
