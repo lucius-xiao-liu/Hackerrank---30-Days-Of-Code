@@ -3,6 +3,7 @@
 ### Solved problems in Java 8 
 
 ### Progression:(June - July, 2019)
+#### Slowly Transport Into Github
 
 SUN | MON | TUE | WED | THUR | FRI | SAT
 --- | --- | --- | --- | --- | --- | ---
