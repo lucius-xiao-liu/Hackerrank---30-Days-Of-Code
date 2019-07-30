@@ -19,4 +19,4 @@
 * precede with @Override annoion
   * for better understanding
   * help check the work
-  * use *getName* method to calls the susperclass;
+  * use *getName* method to calls the superclass;
