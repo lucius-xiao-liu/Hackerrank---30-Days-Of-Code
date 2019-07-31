@@ -46,7 +46,7 @@
 */
 
 
-### Pascal Cse VS. Camel Case
+### Pascal Case VS. Camel Case
 
 * Pascal: MyString
 * Camel: myString
