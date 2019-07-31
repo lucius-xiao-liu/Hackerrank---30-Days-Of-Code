@@ -17,8 +17,8 @@
  * No spaces or special char except "_"
  * Numbers are OK
  * Must associated with a data type (and can only be  perform based on the type)
-  * DataType myVariable;
-  * DataType myVariable = value;
+   * DataType myVariable;
+   * DataType myVariable = value;
 
 #### Field
 * When it is a member of  a class, it called *"field"*.
