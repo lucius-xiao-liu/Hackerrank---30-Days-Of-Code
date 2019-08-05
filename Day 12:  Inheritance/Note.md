@@ -20,3 +20,6 @@
   * for better understanding
   * help check the work
   * use *getName* method to calls the superclass;
+
+#### Constructor
+* A constructor in Java is a special method that is used to initialize **objects**.
