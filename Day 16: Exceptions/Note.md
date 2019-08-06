@@ -30,6 +30,13 @@ Code Errors --> control flow halted & Exception object created --> control flows
 ### Try (Resource) {}
 * useful when a resource  must be opened and closed like Scanner and BufferedReader
 
+### Throws method:
+* using when you know there's something wrong. 
+* if throws is called, there's going to be a try-catch behind-the-screen.
+    * void example() throws Exception{
+        throw new Exception("This exception will always be thrown.");
+    }
+
 
 
 ### Java Integer.parseInt(String s)
