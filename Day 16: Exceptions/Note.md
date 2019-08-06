@@ -32,7 +32,7 @@ Code Errors --> control flow halted & Exception object created --> control flows
 
 
 
-### Java parseInt(String s)
+### Java Integer.parseInt(String s)
 * convert a string that containing the int to the  integer
 * returns Integer value
 * Throws: NumberFormatException (if the String could not convert to an integer)
