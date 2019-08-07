@@ -9,6 +9,7 @@
     * Pop: Remove the object at the top of the stack and return it.
 * It is a class in Java.util.*
 * Extends class Vector (Vector can be stack)
+   * Vector: growable array of  abjects
 
 ### Queues
 * FIFO (Typically but do not necessarily)
