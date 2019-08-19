@@ -6,7 +6,7 @@
 * proceed to the right after left is completed
 * process the tree's elements in ascending order
 
-inOrder(t) {
+> inOrder(t) {
     if(t is not empty) {
         inOrder( left subtree of t )
         process t's root element
@@ -19,12 +19,12 @@ inOrder(t) {
 * **recursive** algorithm-->follows the **left and right** subtrees before processing the **root**
 
 postOrder(t) {
-    if(t is not empty) {
+>   if(t is not empty) {
         postOrder( left subtree of t )
         postOrder( right subtree of t )
         process t's root element
     } 
-} 
+> } 
 
 
 ## PreOrder Traversal (DFS)
