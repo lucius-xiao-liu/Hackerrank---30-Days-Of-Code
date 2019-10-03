@@ -11,7 +11,7 @@ The letters enclosed between angle brackets (< and >) are type parameters and, l
 * K - Key
 * V - Value
 * N - Number
-* T - Type (e.g.: data type)
+* T - Type (e.g.: data type)-->只能用在引用类型（RT）
 * S,U,V, etc. These are second, third, and fourth types for when T is already in use. 
 
 ## Parameterized type:
